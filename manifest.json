@@ -1,0 +1,16 @@
+{
+"name": "Word Counter",
+"version": "1.0",
+"description": "Build an Extension!",
+"permissions": ["activeTab", 
+                "contextMenus",
+                "http://*/*",
+                "https://*/*"
+               ],
+"manifest_version": 2,
+"background": {
+    "persistent": false,
+    "scripts": ["background_script.js"]
+}
+
+}
