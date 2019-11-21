@@ -1,7 +1,7 @@
 {
 "name": "Word Counter",
 "version": "1.0",
-"description": "Build an Extension!",
+"description": "Counts the words you have highlighted and displays it in the context menu.",
 "permissions": ["activeTab", 
                 "contextMenus",
                 "http://*/*",
